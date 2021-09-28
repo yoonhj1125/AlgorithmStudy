@@ -27,7 +27,7 @@ public class sortEx1 {
 			}
 			
 			int value = arr[i];
-			
+			arr[i] = 
 			
 		}
 		
